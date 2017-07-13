@@ -24,4 +24,4 @@ docker pull louwersj/openjdk_ol6:JDK170_OL6.6
 
 #### JDK_1.7.0 OL6-slim
 
-docker pull openjdk_ol6:JDK170_OL6-slim
+docker pull louwersj/openjdk_ol6:JDK170_OL6-slim
