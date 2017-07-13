@@ -1,8 +1,6 @@
-# docker_openjdk_ol6
-Open JDK on Oracle Linux
 # Docker - OpenJDK on Oracle Linux 6
 
-Docker container for OpenJDK httpd on Oracle Linux 6. 
+Docker container for OpenJDK  on Oracle Linux 6. 
 
 Source location on github: https://github.com/louwersj/docker_openjdk_ol6
 
