@@ -56,6 +56,7 @@ LABEL org.label-schema.schema-version="1.0" \
 # Adding a rpm --rebuildddb prior to the yum install 
 # as a fix for Docker bug 10180
 RUN rpm --rebuilddb
+RUN touch /var/lib/rpm/*
 
 RUN yum -y install java-1.7.0-openjdk-devel && yum clean all
 
